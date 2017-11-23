@@ -1,34 +1,31 @@
 import React from 'react';
-import { StyleSheet, ScrollView, Text, View} from 'react-native';
+import { StyleSheet, FlatList, Text, View} from 'react-native';
 import TumblrPost from './TumblrPost.js';
 
 
 const styles = StyleSheet.create({
   container: {
-    paddingVertical: 0
-  }
+    alignItems: 'center',
+    justifyContent: 'center'    
+  },  
+  list: {
+    flex: 1,
+    height: 600,
+    backgroundColor: '#fff'
+  }  
 });
 
-const TEST_DATA = require('./data.json');
-
 export default class TumblrList extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      posts: TEST_DATA.response.posts
-    }
-  }
-
   render() {
-    const posts = this.state.posts.map((post) => {
-      return (<TumblrPost key={post.id} {...post}/>);
-    });
-
     return (
       <View>
-        <ScrollView contentContainerStyle={styles.container}>
-          {posts}
-        </ScrollView>
+        <FlatList
+          style={styles.list}
+          data={this.props.posts}
+          keyExtractor={(post) => post.id}
+          renderItem={(post) => <TumblrPost key={post.id} {...post} />}
+          contentContainerStyle={styles.container}
+          refreshing={this.props.loading} />
       </View>
     )
   }

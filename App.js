@@ -5,8 +5,29 @@ import TumblrList from './TumblrList.js';
 
 const apiKey = 'gh1JZAxxWZ10YxY24wSdDnxGnR4gTgIkFeaftcbHDoKBiiAqBp';
 
+const TEST_DATA = require('./data.json');
+
+
 export default class App extends React.Component {
-  //https://api.tumblr.com/v2/blog/artmakr/posts/photo?api_key=
+  constructor(props) {
+    super(props);
+    this.state = {
+      posts: [],
+      loading: true
+    }
+  }
+
+  componentDidMount() {
+    fetch(`https://api.tumblr.com/v2/blog/artmakr/posts/photo?api_key=${apiKey}`)
+      .then((data) => data.json())
+      .then((json) => {
+        this.setState({
+          posts: json.response.posts,
+          loading: false
+        });
+      });
+  }
+
   render() {
     return (
       <View style={styles.container}>
@@ -14,7 +35,9 @@ export default class App extends React.Component {
           <TumblrBar />
         </View>
         <View style={styles.mainWrapper}>
-          <TumblrList />
+          <TumblrList 
+            loading={this.state.loading}
+            posts={this.state.posts}/>
         </View>
       </View>
     );

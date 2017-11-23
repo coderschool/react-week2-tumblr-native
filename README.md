@@ -30,5 +30,18 @@ Add InstaPost to App.js
 
 Move over styles
 
-## Add API
+## Add API + Use ListView
+
+fetch
+
+
+## Bonus 1: Use smaller photo
+
+## Bonus 2: Infinite scroll
+
+## Bonus 3: Add blog search
+
+## Bonus 4: Link out to single post
+
+## Bonus 5: Improve look and feel
 
