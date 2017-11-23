@@ -1,0 +1,2906 @@
+{
+"meta": {
+"status": 200,
+"msg": "OK"
+},
+"response": {
+"blog": {
+"ask": true,
+"ask_anon": false,
+"ask_page_title": "Ask me anything",
+"can_subscribe": false,
+"description": "<p>20// 🇨🇦🇧🇧</p><p><a href=\"https://www.instagram.com/artmakr/\">Instagram</a></p>\n\n\n<a target=\"_blank\" \nhref=\"https://sites.google.com/view/artmakr/home\">Website</a>",
+"is_adult": false,
+"is_nsfw": false,
+"name": "artmakr",
+"posts": 53,
+"reply_conditions": "3",
+"share_likes": false,
+"subscribed": false,
+"title": "Just Making Some Art",
+"total_posts": 53,
+"updated": 1511222515,
+"url": "https://artmakr.tumblr.com/",
+"is_optout_ads": false
+},
+"posts": [
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 167714552437,
+"post_url": "https://artmakr.tumblr.com/post/167714552437/stay-still-by-jared-burton",
+"slug": "stay-still-by-jared-burton",
+"date": "2017-11-21 00:01:53 GMT",
+"timestamp": 1511222513,
+"state": "published",
+"format": "html",
+"reblog_key": "mMsINony",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"artists on tumblr",
+"drawing",
+"drawings",
+"painting",
+"sketchbook",
+"sketch",
+"my artwork",
+"arrow",
+"black art",
+"Black artists",
+"acrylic",
+"ink"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2SCaFfr",
+"summary": "“Stay Still” 🏹✨ by: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 308,
+"caption": "<p>“Stay Still” 🏹✨</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a> </p>",
+"reblog": {
+"comment": "<p>“Stay Still” 🏹✨</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a> </p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "167714552437"
+},
+"content_raw": "<p>“Stay Still” 🏹✨</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a> </p>",
+"content": "<p>&ldquo;Stay Still&rdquo; &#127993;&#10024;</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a> </p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/167714552437",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/1ee184f5663b4df3690e91014ae41efa/tumblr_ozqqr5C2f21w8bkdzo1_1280.jpg",
+"width": 1280,
+"height": 1600
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/1ee184f5663b4df3690e91014ae41efa/tumblr_ozqqr5C2f21w8bkdzo1_1280.jpg",
+"width": 1280,
+"height": 1600
+},
+{
+"url": "https://78.media.tumblr.com/1ee184f5663b4df3690e91014ae41efa/tumblr_ozqqr5C2f21w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/1ee184f5663b4df3690e91014ae41efa/tumblr_ozqqr5C2f21w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/1ee184f5663b4df3690e91014ae41efa/tumblr_ozqqr5C2f21w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/1ee184f5663b4df3690e91014ae41efa/tumblr_ozqqr5C2f21w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/1ee184f5663b4df3690e91014ae41efa/tumblr_ozqqr5C2f21w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/1ee184f5663b4df3690e91014ae41efa/tumblr_ozqqr5C2f21w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+],
+"exif": {
+"Camera": " iPhone 6s",
+"ISO": 40,
+"Aperture": "f/2.2",
+"Exposure": "1/33th",
+"FocalLength": "4mm"
+}
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 167321417002,
+"post_url": "https://artmakr.tumblr.com/post/167321417002/by-jared-burton",
+"slug": "by-jared-burton",
+"date": "2017-11-10 00:34:30 GMT",
+"timestamp": 1510274070,
+"state": "published",
+"format": "html",
+"reblog_key": "hDvHI7lc",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"artists on tumblr",
+"drawing",
+"drawings",
+"painting",
+"ink",
+"sketch",
+"sketchbook",
+"acrylic",
+"rose",
+"paint",
+"black art",
+"black artists"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2Rr8ZKg",
+"summary": "🥀🥀   by: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 2586,
+"caption": "<p>🥀🥀 </p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a><br/></p>",
+"reblog": {
+"comment": "<p>🥀🥀 </p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a><br></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "167321417002"
+},
+"content_raw": "<p>🥀🥀 </p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a><br></p>",
+"content": "<p>&#129344;&#129344;&nbsp;</p><p>&nbsp;by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a><br /></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/167321417002",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/e1b46a80d73bdadedf197add8a14b0a7/tumblr_oz6exi2qiW1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/e1b46a80d73bdadedf197add8a14b0a7/tumblr_oz6exi2qiW1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/e1b46a80d73bdadedf197add8a14b0a7/tumblr_oz6exi2qiW1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/e1b46a80d73bdadedf197add8a14b0a7/tumblr_oz6exi2qiW1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/e1b46a80d73bdadedf197add8a14b0a7/tumblr_oz6exi2qiW1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/e1b46a80d73bdadedf197add8a14b0a7/tumblr_oz6exi2qiW1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/e1b46a80d73bdadedf197add8a14b0a7/tumblr_oz6exi2qiW1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/e1b46a80d73bdadedf197add8a14b0a7/tumblr_oz6exi2qiW1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 167031694822,
+"post_url": "https://artmakr.tumblr.com/post/167031694822/did-this-one-a-little-while-ago-by-jared",
+"slug": "did-this-one-a-little-while-ago-by-jared",
+"date": "2017-11-02 00:40:08 GMT",
+"timestamp": 1509583208,
+"state": "published",
+"format": "html",
+"reblog_key": "F1M745L6",
+"tags": [
+"art",
+"my art",
+"artists on tumblr",
+"my artwork",
+"artwork",
+"sketch",
+"sketchbook",
+"drawing",
+"sunglasses",
+"artsy",
+"black art",
+"black artists",
+"artist",
+"pen and ink",
+"ink",
+"drawings",
+"painting"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2RZtMNc",
+"summary": "Did this one a little while ago \n\n 🕶✨  by: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 525,
+"caption": "<p>Did this one a little while ago \n\n 🕶✨</p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"reblog": {
+"comment": "<p>Did this one a little while ago \n\n 🕶✨</p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "167031694822"
+},
+"content_raw": "<p>Did this one a little while ago \n\n 🕶✨</p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"content": "<p>Did this one a little while ago&nbsp;\n\n &#128374;&#10024;</p><p>&nbsp;by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/167031694822",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/ae366b8794d9bf626a1df1c357ab90a4/tumblr_oyrluwudmp1w8bkdzo1_1280.jpg",
+"width": 1280,
+"height": 1600
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/ae366b8794d9bf626a1df1c357ab90a4/tumblr_oyrluwudmp1w8bkdzo1_1280.jpg",
+"width": 1280,
+"height": 1600
+},
+{
+"url": "https://78.media.tumblr.com/ae366b8794d9bf626a1df1c357ab90a4/tumblr_oyrluwudmp1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/ae366b8794d9bf626a1df1c357ab90a4/tumblr_oyrluwudmp1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/ae366b8794d9bf626a1df1c357ab90a4/tumblr_oyrluwudmp1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/ae366b8794d9bf626a1df1c357ab90a4/tumblr_oyrluwudmp1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/ae366b8794d9bf626a1df1c357ab90a4/tumblr_oyrluwudmp1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/ae366b8794d9bf626a1df1c357ab90a4/tumblr_oyrluwudmp1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 166962123162,
+"post_url": "https://artmakr.tumblr.com/post/166962123162/by-jared-burton",
+"slug": "by-jared-burton",
+"date": "2017-10-30 23:53:49 GMT",
+"timestamp": 1509407629,
+"state": "published",
+"format": "html",
+"reblog_key": "DarcRuXL",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"my artwork",
+"sketch",
+"drawing",
+"artists on tumblr",
+"girl",
+"drawings",
+"artsy",
+"pen and ink",
+"young artist",
+"black art",
+"black artists",
+"inkdrawing"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2RVjz6Q",
+"summary": "🎧🎶✨  by: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 378,
+"caption": "<p>🎧🎶✨ </p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"reblog": {
+"comment": "<p>🎧🎶✨ </p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "166962123162"
+},
+"content_raw": "<p>🎧🎶✨ </p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"content": "<p>&#127911;&#127926;&#10024;&nbsp;</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/166962123162",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/945e009dccbf3a9c01a29b40f6bb0ee6/tumblr_oynudqeI2N1w8bkdzo1_1280.jpg",
+"width": 1066,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/945e009dccbf3a9c01a29b40f6bb0ee6/tumblr_oynudqeI2N1w8bkdzo1_1280.jpg",
+"width": 1066,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/945e009dccbf3a9c01a29b40f6bb0ee6/tumblr_oynudqeI2N1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 648
+},
+{
+"url": "https://78.media.tumblr.com/945e009dccbf3a9c01a29b40f6bb0ee6/tumblr_oynudqeI2N1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 600
+},
+{
+"url": "https://78.media.tumblr.com/945e009dccbf3a9c01a29b40f6bb0ee6/tumblr_oynudqeI2N1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 480
+},
+{
+"url": "https://78.media.tumblr.com/945e009dccbf3a9c01a29b40f6bb0ee6/tumblr_oynudqeI2N1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 300
+},
+{
+"url": "https://78.media.tumblr.com/945e009dccbf3a9c01a29b40f6bb0ee6/tumblr_oynudqeI2N1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 120
+},
+{
+"url": "https://78.media.tumblr.com/945e009dccbf3a9c01a29b40f6bb0ee6/tumblr_oynudqeI2N1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 166761227532,
+"post_url": "https://artmakr.tumblr.com/post/166761227532/quick-sketch-by-jared-burton",
+"slug": "quick-sketch-by-jared-burton",
+"date": "2017-10-24 23:34:16 GMT",
+"timestamp": 1508888056,
+"state": "published",
+"format": "html",
+"reblog_key": "knEFcHlo",
+"tags": [
+"art",
+"artwork",
+"my artwork",
+"artist",
+"artists on tumblr",
+"artsy",
+"sketch",
+"sketchbook",
+"hands",
+"black art",
+"black artists",
+"ink",
+"drawing",
+"drawings",
+"painting",
+"paint",
+"young artist"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2RJlcKC",
+"summary": "Quick sketch✨  by: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 352,
+"caption": "<p>Quick sketch✨ </p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"reblog": {
+"comment": "<p>Quick sketch✨ </p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "166761227532"
+},
+"content_raw": "<p>Quick sketch✨ </p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"content": "<p>Quick sketch&#10024;&nbsp;</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/166761227532",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/3d61451756bd0ed3f9aa1f11c68ae7fd/tumblr_oycph6fCNd1w8bkdzo1_1280.jpg",
+"width": 1048,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/3d61451756bd0ed3f9aa1f11c68ae7fd/tumblr_oycph6fCNd1w8bkdzo1_1280.jpg",
+"width": 1048,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/3d61451756bd0ed3f9aa1f11c68ae7fd/tumblr_oycph6fCNd1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 660
+},
+{
+"url": "https://78.media.tumblr.com/3d61451756bd0ed3f9aa1f11c68ae7fd/tumblr_oycph6fCNd1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 611
+},
+{
+"url": "https://78.media.tumblr.com/3d61451756bd0ed3f9aa1f11c68ae7fd/tumblr_oycph6fCNd1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 489
+},
+{
+"url": "https://78.media.tumblr.com/3d61451756bd0ed3f9aa1f11c68ae7fd/tumblr_oycph6fCNd1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 305
+},
+{
+"url": "https://78.media.tumblr.com/3d61451756bd0ed3f9aa1f11c68ae7fd/tumblr_oycph6fCNd1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 122
+},
+{
+"url": "https://78.media.tumblr.com/3d61451756bd0ed3f9aa1f11c68ae7fd/tumblr_oycph6fCNd1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 166518339637,
+"post_url": "https://artmakr.tumblr.com/post/166518339637/those-damn-millennials-and-their-avocado-hats",
+"slug": "those-damn-millennials-and-their-avocado-hats",
+"date": "2017-10-18 00:45:45 GMT",
+"timestamp": 1508287545,
+"state": "published",
+"format": "html",
+"reblog_key": "nchj0TCL",
+"tags": [
+"art",
+"my art",
+"my artwork",
+"sketch",
+"sketchbook",
+"drawing",
+"painting",
+"paint",
+"artists on tumblr",
+"artist",
+"girl",
+"black art",
+"black artists",
+"drawings",
+"artsy",
+"young artist",
+"cool"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2R5H3Wr",
+"summary": "Those damn millennials and their avocado hats 🥑 ✨  \n\n\nby: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 727,
+"caption": "<p>Those damn millennials and their avocado hats 🥑 ✨<br/><br/></p><p>\n\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br/></p>",
+"reblog": {
+"comment": "<p>Those damn millennials and their avocado hats 🥑 ✨<br><br></p><p>\n\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "166518339637"
+},
+"content_raw": "<p>Those damn millennials and their avocado hats 🥑 ✨<br><br></p><p>\n\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br></p>",
+"content": "<p>Those damn millennials and their avocado hats &#129361; &#10024;<br /><br /></p><p>\n\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br /></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/166518339637",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/3035b9c73613d21d4e0fd62dadb5f91e/tumblr_oxzu498DTJ1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/3035b9c73613d21d4e0fd62dadb5f91e/tumblr_oxzu498DTJ1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/3035b9c73613d21d4e0fd62dadb5f91e/tumblr_oxzu498DTJ1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/3035b9c73613d21d4e0fd62dadb5f91e/tumblr_oxzu498DTJ1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/3035b9c73613d21d4e0fd62dadb5f91e/tumblr_oxzu498DTJ1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/3035b9c73613d21d4e0fd62dadb5f91e/tumblr_oxzu498DTJ1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/3035b9c73613d21d4e0fd62dadb5f91e/tumblr_oxzu498DTJ1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/3035b9c73613d21d4e0fd62dadb5f91e/tumblr_oxzu498DTJ1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+],
+"exif": {
+"Camera": " iPhone 6s",
+"ISO": 200,
+"Aperture": "f/2.2",
+"Exposure": "1/25th",
+"FocalLength": "4mm"
+}
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 166304506922,
+"post_url": "https://artmakr.tumblr.com/post/166304506922/by-jared-burton",
+"slug": "by-jared-burton",
+"date": "2017-10-11 23:28:49 GMT",
+"timestamp": 1507764529,
+"state": "published",
+"format": "html",
+"reblog_key": "qqrnhzXd",
+"tags": [
+"art",
+"my art",
+"my artwork",
+"artists on tumblr",
+"artist",
+"artwork",
+"artsy",
+"drawing",
+"drawings",
+"sketch",
+"sketchbook",
+"ink",
+"rose",
+"guns n roses",
+"black art",
+"black artists",
+"hands"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2QuXMGg",
+"summary": "🔫🥀  by: Jared Burton ",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 519,
+"caption": "<p>🔫🥀</p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"reblog": {
+"comment": "<p>🔫🥀</p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "166304506922"
+},
+"content_raw": "<p>🔫🥀</p><p> by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"content": "<p>&#128299;&#129344;</p><p>&nbsp;by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton&nbsp;</a></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/166304506922",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/6826b6b03751c7221d940df105e2c452/tumblr_oxomk2bm3U1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/6826b6b03751c7221d940df105e2c452/tumblr_oxomk2bm3U1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/6826b6b03751c7221d940df105e2c452/tumblr_oxomk2bm3U1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/6826b6b03751c7221d940df105e2c452/tumblr_oxomk2bm3U1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/6826b6b03751c7221d940df105e2c452/tumblr_oxomk2bm3U1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/6826b6b03751c7221d940df105e2c452/tumblr_oxomk2bm3U1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/6826b6b03751c7221d940df105e2c452/tumblr_oxomk2bm3U1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/6826b6b03751c7221d940df105e2c452/tumblr_oxomk2bm3U1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 166197864082,
+"post_url": "https://artmakr.tumblr.com/post/166197864082/i-just-wanted-to-hop-on-here-to-say-thanks-to",
+"slug": "i-just-wanted-to-hop-on-here-to-say-thanks-to",
+"date": "2017-10-09 00:11:40 GMT",
+"timestamp": 1507507900,
+"state": "published",
+"format": "html",
+"reblog_key": "IADic3AM",
+"tags": [
+"art",
+"my art",
+"my artwork",
+"sketch",
+"sketchbook",
+"hands",
+"acrylic",
+"artist",
+"artists on tumblr",
+"artsy",
+"black art",
+"black artists",
+"drawing",
+"painting",
+"paint",
+"ink",
+"drawings"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2QoAYQI",
+"summary": "I just wanted to hop on here to say thanks to every single one of you. It really means a lot that so many of you enjoy my work....",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 115,
+"caption": "<p>I just wanted to hop on here to say thanks to every single one of you. It really means a lot that so many of you enjoy my work. Thank you so much! ❤️✨</p>",
+"reblog": {
+"comment": "<p>I just wanted to hop on here to say thanks to every single one of you. It really means a lot that so many of you enjoy my work. Thank you so much! ❤️✨</p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "166197864082"
+},
+"content_raw": "<p>I just wanted to hop on here to say thanks to every single one of you. It really means a lot that so many of you enjoy my work. Thank you so much! ❤️✨</p>",
+"content": "<p>I just wanted to hop on here to say thanks to every single one of you. It really means a lot that so many of you enjoy my work. Thank you so much! &#10084;&#65039;&#10024;</p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"photoset_layout": "11",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/1eaa5e32327677a655de8342e74af766/tumblr_oxj4jhl11M1w8bkdzo1_1280.jpg",
+"width": 750,
+"height": 155
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/1eaa5e32327677a655de8342e74af766/tumblr_oxj4jhl11M1w8bkdzo1_1280.jpg",
+"width": 750,
+"height": 155
+},
+{
+"url": "https://78.media.tumblr.com/1eaa5e32327677a655de8342e74af766/tumblr_oxj4jhl11M1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 112
+},
+{
+"url": "https://78.media.tumblr.com/1eaa5e32327677a655de8342e74af766/tumblr_oxj4jhl11M1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 103
+},
+{
+"url": "https://78.media.tumblr.com/1eaa5e32327677a655de8342e74af766/tumblr_oxj4jhl11M1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 83
+},
+{
+"url": "https://78.media.tumblr.com/1eaa5e32327677a655de8342e74af766/tumblr_oxj4jhl11M1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 52
+},
+{
+"url": "https://78.media.tumblr.com/1eaa5e32327677a655de8342e74af766/tumblr_oxj4jhl11M1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 21
+},
+{
+"url": "https://78.media.tumblr.com/1eaa5e32327677a655de8342e74af766/tumblr_oxj4jhl11M1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+},
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/2d234efebfc919feab50285ecff13446/tumblr_oxj4jhl11M1w8bkdzo2_1280.jpg",
+"width": 1194,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/2d234efebfc919feab50285ecff13446/tumblr_oxj4jhl11M1w8bkdzo2_1280.jpg",
+"width": 1194,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/2d234efebfc919feab50285ecff13446/tumblr_oxj4jhl11M1w8bkdzo2_540.jpg",
+"width": 540,
+"height": 579
+},
+{
+"url": "https://78.media.tumblr.com/2d234efebfc919feab50285ecff13446/tumblr_oxj4jhl11M1w8bkdzo2_500.jpg",
+"width": 500,
+"height": 536
+},
+{
+"url": "https://78.media.tumblr.com/2d234efebfc919feab50285ecff13446/tumblr_oxj4jhl11M1w8bkdzo2_400.jpg",
+"width": 400,
+"height": 429
+},
+{
+"url": "https://78.media.tumblr.com/2d234efebfc919feab50285ecff13446/tumblr_oxj4jhl11M1w8bkdzo2_250.jpg",
+"width": 250,
+"height": 268
+},
+{
+"url": "https://78.media.tumblr.com/2d234efebfc919feab50285ecff13446/tumblr_oxj4jhl11M1w8bkdzo2_100.jpg",
+"width": 100,
+"height": 107
+},
+{
+"url": "https://78.media.tumblr.com/2d234efebfc919feab50285ecff13446/tumblr_oxj4jhl11M1w8bkdzo2_75sq.jpg",
+"width": 75,
+"height": 75
+}
+],
+"exif": {
+"Camera": " iPhone"
+}
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 166091734317,
+"post_url": "https://artmakr.tumblr.com/post/166091734317/hang-in-there-kid-by-jared-burton",
+"slug": "hang-in-there-kid-by-jared-burton",
+"date": "2017-10-06 00:11:39 GMT",
+"timestamp": 1507248699,
+"state": "published",
+"format": "html",
+"reblog_key": "0yQYkJUb",
+"tags": [
+"art",
+"artist",
+"artists on tumblr",
+"artwork",
+"my art",
+"my artwork",
+"sketch",
+"sketchbook",
+"drawings",
+"heart",
+"heartbreak",
+"black art",
+"black artists",
+"girl",
+"artsy",
+"ink",
+"curlyhair"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2Qhrhqj",
+"summary": "Hang in there kid ✨ By: Jared Burton ",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 755,
+"caption": "<p>Hang in there kid ✨</p><p>By: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"reblog": {
+"comment": "<p>Hang in there kid ✨</p><p>By: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "166091734317"
+},
+"content_raw": "<p>Hang in there kid ✨</p><p>By: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"content": "<p>Hang in there kid &#10024;</p><p>By: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton&nbsp;</a></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/166091734317",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/213b31f1182b4bdfbdbc48674598f847/tumblr_oxdkjgy6qP1w8bkdzo1_1280.jpg",
+"width": 1093,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/213b31f1182b4bdfbdbc48674598f847/tumblr_oxdkjgy6qP1w8bkdzo1_1280.jpg",
+"width": 1093,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/213b31f1182b4bdfbdbc48674598f847/tumblr_oxdkjgy6qP1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 632
+},
+{
+"url": "https://78.media.tumblr.com/213b31f1182b4bdfbdbc48674598f847/tumblr_oxdkjgy6qP1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 586
+},
+{
+"url": "https://78.media.tumblr.com/213b31f1182b4bdfbdbc48674598f847/tumblr_oxdkjgy6qP1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 468
+},
+{
+"url": "https://78.media.tumblr.com/213b31f1182b4bdfbdbc48674598f847/tumblr_oxdkjgy6qP1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 293
+},
+{
+"url": "https://78.media.tumblr.com/213b31f1182b4bdfbdbc48674598f847/tumblr_oxdkjgy6qP1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 117
+},
+{
+"url": "https://78.media.tumblr.com/213b31f1182b4bdfbdbc48674598f847/tumblr_oxdkjgy6qP1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 165879017467,
+"post_url": "https://artmakr.tumblr.com/post/165879017467/did-this-one-pretty-quickly",
+"slug": "did-this-one-pretty-quickly",
+"date": "2017-09-29 23:16:37 GMT",
+"timestamp": 1506726997,
+"state": "published",
+"format": "html",
+"reblog_key": "QBAXZEXq",
+"tags": [
+"art",
+"my art",
+"my artwork",
+"artsy",
+"drawing",
+"painting",
+"ink",
+"sketchbook",
+"sketch",
+"hands",
+"girl",
+"artists on tumblr",
+"artist",
+"young artist",
+"black art",
+"black artists",
+"curlyhair"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2QVAE-x",
+"summary": "Did this one pretty quickly ✨",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 577,
+"caption": "<p>Did this one pretty quickly ✨</p>",
+"reblog": {
+"comment": "<p>Did this one pretty quickly ✨</p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "165879017467"
+},
+"content_raw": "<p>Did this one pretty quickly ✨</p>",
+"content": "<p>Did this one pretty quickly &#10024;</p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/165879017467",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/325e2e1546bd73679209a23a2abfffce/tumblr_ox2dzqVoqZ1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/325e2e1546bd73679209a23a2abfffce/tumblr_ox2dzqVoqZ1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/325e2e1546bd73679209a23a2abfffce/tumblr_ox2dzqVoqZ1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/325e2e1546bd73679209a23a2abfffce/tumblr_ox2dzqVoqZ1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/325e2e1546bd73679209a23a2abfffce/tumblr_ox2dzqVoqZ1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/325e2e1546bd73679209a23a2abfffce/tumblr_ox2dzqVoqZ1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/325e2e1546bd73679209a23a2abfffce/tumblr_ox2dzqVoqZ1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/325e2e1546bd73679209a23a2abfffce/tumblr_ox2dzqVoqZ1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 165741024947,
+"post_url": "https://artmakr.tumblr.com/post/165741024947/to-be-or-not-to-be-by-jared-burton",
+"slug": "to-be-or-not-to-be-by-jared-burton",
+"date": "2017-09-25 23:36:11 GMT",
+"timestamp": 1506382571,
+"state": "published",
+"format": "html",
+"reblog_key": "e4NZ7sMJ",
+"tags": [
+"art",
+"artist",
+"artwork",
+"artists on tumblr",
+"my art",
+"my artwork",
+"artsy",
+"black art",
+"black artists",
+"skull",
+"sketch",
+"ink",
+"sketchbook",
+"hands",
+"shakespeare",
+"contemporaryart",
+"young artist"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2QMxrQp",
+"summary": "To be or not to be... ✨ by: Jared Burton ",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 1455,
+"caption": "<p>To be or not to be&hellip; ✨</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"reblog": {
+"comment": "<p>To be or not to be… ✨</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "165741024947"
+},
+"content_raw": "<p>To be or not to be… ✨</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton </a></p>",
+"content": "<p>To be or not to be&hellip; &#10024;</p><p>by: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton&nbsp;</a></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/165741024947",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/9593c2c9a5c100300a9740eb547a57d1/tumblr_owv08bdkmo1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/9593c2c9a5c100300a9740eb547a57d1/tumblr_owv08bdkmo1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/9593c2c9a5c100300a9740eb547a57d1/tumblr_owv08bdkmo1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/9593c2c9a5c100300a9740eb547a57d1/tumblr_owv08bdkmo1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/9593c2c9a5c100300a9740eb547a57d1/tumblr_owv08bdkmo1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/9593c2c9a5c100300a9740eb547a57d1/tumblr_owv08bdkmo1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/9593c2c9a5c100300a9740eb547a57d1/tumblr_owv08bdkmo1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/9593c2c9a5c100300a9740eb547a57d1/tumblr_owv08bdkmo1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 165417678567,
+"post_url": "https://artmakr.tumblr.com/post/165417678567/hand-sketches-for-dayz",
+"slug": "hand-sketches-for-dayz",
+"date": "2017-09-17 00:26:50 GMT",
+"timestamp": 1505608010,
+"state": "published",
+"format": "html",
+"reblog_key": "tfbaXJU1",
+"tags": [
+"art",
+"artist",
+"artists on tumblr",
+"artwork",
+"my artwork",
+"my art",
+"artsy",
+"painting",
+"drawing",
+"paint",
+"acrylic",
+"sketch",
+"sketchbook",
+"hands",
+"minimal",
+"black art",
+"black artists"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2Q3gNRd",
+"summary": "Hand sketches for dayz ✨",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 220,
+"caption": "<p>Hand sketches for dayz ✨</p>",
+"reblog": {
+"comment": "<p>Hand sketches for dayz ✨</p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "165417678567"
+},
+"content_raw": "<p>Hand sketches for dayz ✨</p>",
+"content": "<p>Hand sketches for dayz &#10024;</p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/165417678567",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/b9c47f6f1ae57db79d645ec20e471dc7/tumblr_oweekrbXVd1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/b9c47f6f1ae57db79d645ec20e471dc7/tumblr_oweekrbXVd1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/b9c47f6f1ae57db79d645ec20e471dc7/tumblr_oweekrbXVd1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/b9c47f6f1ae57db79d645ec20e471dc7/tumblr_oweekrbXVd1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/b9c47f6f1ae57db79d645ec20e471dc7/tumblr_oweekrbXVd1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/b9c47f6f1ae57db79d645ec20e471dc7/tumblr_oweekrbXVd1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/b9c47f6f1ae57db79d645ec20e471dc7/tumblr_oweekrbXVd1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/b9c47f6f1ae57db79d645ec20e471dc7/tumblr_oweekrbXVd1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 165274892737,
+"post_url": "https://artmakr.tumblr.com/post/165274892737/parts-of-the-new-piece-im-working-on",
+"slug": "parts-of-the-new-piece-im-working-on",
+"date": "2017-09-12 23:02:04 GMT",
+"timestamp": 1505257324,
+"state": "published",
+"format": "html",
+"reblog_key": "J33bIepy",
+"tags": [
+"art",
+"artist",
+"my artwork",
+"my art",
+"artwork",
+"artsy",
+"drawings",
+"paint",
+"painting",
+"sketch",
+"sketchbook",
+"black art",
+"contemporaryart",
+"drawing",
+"hands",
+"art studio",
+"wip"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2Px9hd1",
+"summary": "Parts of the new piece i’m working on ✨",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 231,
+"caption": "<p>Parts of the new piece i’m working on ✨</p>",
+"reblog": {
+"comment": "<p>Parts of the new piece i’m working on ✨</p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "165274892737"
+},
+"content_raw": "<p>Parts of the new piece i’m working on ✨</p>",
+"content": "<p>Parts of the new piece i&rsquo;m working on &#10024;</p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"photoset_layout": "11",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/fc7a16c0263cb7d0ceb366ed1cb479bd/tumblr_ow6vyrt7P41w8bkdzo1_1280.jpg",
+"width": 1080,
+"height": 1080
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/fc7a16c0263cb7d0ceb366ed1cb479bd/tumblr_ow6vyrt7P41w8bkdzo1_1280.jpg",
+"width": 1080,
+"height": 1080
+},
+{
+"url": "https://78.media.tumblr.com/fc7a16c0263cb7d0ceb366ed1cb479bd/tumblr_ow6vyrt7P41w8bkdzo1_540.jpg",
+"width": 540,
+"height": 540
+},
+{
+"url": "https://78.media.tumblr.com/fc7a16c0263cb7d0ceb366ed1cb479bd/tumblr_ow6vyrt7P41w8bkdzo1_500.jpg",
+"width": 500,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/fc7a16c0263cb7d0ceb366ed1cb479bd/tumblr_ow6vyrt7P41w8bkdzo1_400.jpg",
+"width": 400,
+"height": 400
+},
+{
+"url": "https://78.media.tumblr.com/fc7a16c0263cb7d0ceb366ed1cb479bd/tumblr_ow6vyrt7P41w8bkdzo1_250.jpg",
+"width": 250,
+"height": 250
+},
+{
+"url": "https://78.media.tumblr.com/fc7a16c0263cb7d0ceb366ed1cb479bd/tumblr_ow6vyrt7P41w8bkdzo1_100.jpg",
+"width": 100,
+"height": 100
+},
+{
+"url": "https://78.media.tumblr.com/fc7a16c0263cb7d0ceb366ed1cb479bd/tumblr_ow6vyrt7P41w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+],
+"exif": {
+"Camera": " iPhone 6s",
+"ISO": 50,
+"Aperture": "f/2.2",
+"Exposure": "1/33th",
+"FocalLength": "4mm"
+}
+},
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/f011ba335f3f0c82e5e397d7e616273f/tumblr_ow6vyrt7P41w8bkdzo2_1280.jpg",
+"width": 1080,
+"height": 1080
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/f011ba335f3f0c82e5e397d7e616273f/tumblr_ow6vyrt7P41w8bkdzo2_1280.jpg",
+"width": 1080,
+"height": 1080
+},
+{
+"url": "https://78.media.tumblr.com/f011ba335f3f0c82e5e397d7e616273f/tumblr_ow6vyrt7P41w8bkdzo2_540.jpg",
+"width": 540,
+"height": 540
+},
+{
+"url": "https://78.media.tumblr.com/f011ba335f3f0c82e5e397d7e616273f/tumblr_ow6vyrt7P41w8bkdzo2_500.jpg",
+"width": 500,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/f011ba335f3f0c82e5e397d7e616273f/tumblr_ow6vyrt7P41w8bkdzo2_400.jpg",
+"width": 400,
+"height": 400
+},
+{
+"url": "https://78.media.tumblr.com/f011ba335f3f0c82e5e397d7e616273f/tumblr_ow6vyrt7P41w8bkdzo2_250.jpg",
+"width": 250,
+"height": 250
+},
+{
+"url": "https://78.media.tumblr.com/f011ba335f3f0c82e5e397d7e616273f/tumblr_ow6vyrt7P41w8bkdzo2_100.jpg",
+"width": 100,
+"height": 100
+},
+{
+"url": "https://78.media.tumblr.com/f011ba335f3f0c82e5e397d7e616273f/tumblr_ow6vyrt7P41w8bkdzo2_75sq.jpg",
+"width": 75,
+"height": 75
+}
+],
+"exif": {
+"Camera": " iPhone 6s",
+"ISO": 50,
+"Aperture": "f/2.2",
+"Exposure": "1/33th",
+"FocalLength": "4mm"
+}
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 165025017832,
+"post_url": "https://artmakr.tumblr.com/post/165025017832/todays-sketch",
+"slug": "todays-sketch",
+"date": "2017-09-05 23:03:20 GMT",
+"timestamp": 1504652600,
+"state": "published",
+"format": "html",
+"reblog_key": "m4NhrJHm",
+"tags": [
+"art",
+"artist",
+"my art",
+"my artwork",
+"artists on tumblr",
+"artwork",
+"artsy",
+"sketch",
+"drawing",
+"painting",
+"acrylic",
+"paint",
+"ink",
+"artstagram",
+"sketchbook",
+"black art",
+"black artists"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2PiGU-e",
+"summary": "Today's sketch 💊✨",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 266,
+"caption": "<p>Today&rsquo;s sketch 💊✨</p>",
+"reblog": {
+"comment": "<p>Today’s sketch 💊✨</p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "165025017832"
+},
+"content_raw": "<p>Today’s sketch 💊✨</p>",
+"content": "<p>Today&rsquo;s sketch &#128138;&#10024;</p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/165025017832",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/c6b8167e27c6c06ddcb1805fd5101d35/tumblr_ovtxdkcHgf1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/c6b8167e27c6c06ddcb1805fd5101d35/tumblr_ovtxdkcHgf1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/c6b8167e27c6c06ddcb1805fd5101d35/tumblr_ovtxdkcHgf1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/c6b8167e27c6c06ddcb1805fd5101d35/tumblr_ovtxdkcHgf1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/c6b8167e27c6c06ddcb1805fd5101d35/tumblr_ovtxdkcHgf1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/c6b8167e27c6c06ddcb1805fd5101d35/tumblr_ovtxdkcHgf1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/c6b8167e27c6c06ddcb1805fd5101d35/tumblr_ovtxdkcHgf1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/c6b8167e27c6c06ddcb1805fd5101d35/tumblr_ovtxdkcHgf1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 164947407457,
+"post_url": "https://artmakr.tumblr.com/post/164947407457/sketch",
+"slug": "sketch",
+"date": "2017-09-03 22:03:27 GMT",
+"timestamp": 1504476207,
+"state": "published",
+"format": "html",
+"reblog_key": "WBM1FWB2",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"my artwork",
+"artsy",
+"painting",
+"paint",
+"acrylic",
+"sketch",
+"sketchbook",
+"black art",
+"black artists",
+"contemporaryart",
+"young artist",
+"drawings"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2PdeR9X",
+"summary": "Sketch ✨",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 298,
+"caption": "<p>Sketch ✨</p>",
+"reblog": {
+"comment": "<p>Sketch ✨</p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "164947407457"
+},
+"content_raw": "<p>Sketch ✨</p>",
+"content": "<p>Sketch &#10024;</p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/164947407457",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/edfd25c0e6d17542102fa3b0622d730c/tumblr_ovpvexeGHh1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/edfd25c0e6d17542102fa3b0622d730c/tumblr_ovpvexeGHh1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/edfd25c0e6d17542102fa3b0622d730c/tumblr_ovpvexeGHh1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/edfd25c0e6d17542102fa3b0622d730c/tumblr_ovpvexeGHh1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/edfd25c0e6d17542102fa3b0622d730c/tumblr_ovpvexeGHh1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/edfd25c0e6d17542102fa3b0622d730c/tumblr_ovpvexeGHh1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/edfd25c0e6d17542102fa3b0622d730c/tumblr_ovpvexeGHh1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/edfd25c0e6d17542102fa3b0622d730c/tumblr_ovpvexeGHh1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 164803386242,
+"post_url": "https://artmakr.tumblr.com/post/164803386242/anatomy-of-a-hybrid-ft-me",
+"slug": "anatomy-of-a-hybrid-ft-me",
+"date": "2017-08-30 23:06:58 GMT",
+"timestamp": 1504134418,
+"state": "published",
+"format": "html",
+"reblog_key": "Oe5DMYJ2",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"painting",
+"drawing",
+"black art",
+"black artists",
+"acrylic",
+"paint",
+"sketch",
+"charcoal",
+"contemporaryart",
+"young artist",
+"artsy",
+"my artwork",
+"art studio"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2PV31k2",
+"summary": "Anatomy of a Hybrid ft me ✨",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 153,
+"caption": "<p>Anatomy of a Hybrid ft me ✨</p>",
+"reblog": {
+"comment": "<p>Anatomy of a Hybrid ft me ✨</p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "164803386242"
+},
+"content_raw": "<p>Anatomy of a Hybrid ft me ✨</p>",
+"content": "<p>Anatomy of a Hybrid ft me &#10024;</p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"photoset_layout": "2",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/6530226b36190626e328db7e59d2ce84/tumblr_ovigy0R7IR1w8bkdzo1_1280.jpg",
+"width": 1001,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/6530226b36190626e328db7e59d2ce84/tumblr_ovigy0R7IR1w8bkdzo1_1280.jpg",
+"width": 1001,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/6530226b36190626e328db7e59d2ce84/tumblr_ovigy0R7IR1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 691
+},
+{
+"url": "https://78.media.tumblr.com/6530226b36190626e328db7e59d2ce84/tumblr_ovigy0R7IR1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 639
+},
+{
+"url": "https://78.media.tumblr.com/6530226b36190626e328db7e59d2ce84/tumblr_ovigy0R7IR1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 511
+},
+{
+"url": "https://78.media.tumblr.com/6530226b36190626e328db7e59d2ce84/tumblr_ovigy0R7IR1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 320
+},
+{
+"url": "https://78.media.tumblr.com/6530226b36190626e328db7e59d2ce84/tumblr_ovigy0R7IR1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 128
+},
+{
+"url": "https://78.media.tumblr.com/6530226b36190626e328db7e59d2ce84/tumblr_ovigy0R7IR1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+],
+"exif": {
+"Camera": " iPhone 6s",
+"ISO": 250,
+"Aperture": "f/2.2",
+"Exposure": "1/33th",
+"FocalLength": "4mm"
+}
+},
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/67c8544fecfa701d1afb00d28c98742e/tumblr_ovigy0R7IR1w8bkdzo2_1280.jpg",
+"width": 960,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/67c8544fecfa701d1afb00d28c98742e/tumblr_ovigy0R7IR1w8bkdzo2_1280.jpg",
+"width": 960,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/67c8544fecfa701d1afb00d28c98742e/tumblr_ovigy0R7IR1w8bkdzo2_540.jpg",
+"width": 540,
+"height": 720
+},
+{
+"url": "https://78.media.tumblr.com/67c8544fecfa701d1afb00d28c98742e/tumblr_ovigy0R7IR1w8bkdzo2_500.jpg",
+"width": 500,
+"height": 667
+},
+{
+"url": "https://78.media.tumblr.com/67c8544fecfa701d1afb00d28c98742e/tumblr_ovigy0R7IR1w8bkdzo2_400.jpg",
+"width": 400,
+"height": 533
+},
+{
+"url": "https://78.media.tumblr.com/67c8544fecfa701d1afb00d28c98742e/tumblr_ovigy0R7IR1w8bkdzo2_250.jpg",
+"width": 250,
+"height": 333
+},
+{
+"url": "https://78.media.tumblr.com/67c8544fecfa701d1afb00d28c98742e/tumblr_ovigy0R7IR1w8bkdzo2_100.jpg",
+"width": 100,
+"height": 133
+},
+{
+"url": "https://78.media.tumblr.com/67c8544fecfa701d1afb00d28c98742e/tumblr_ovigy0R7IR1w8bkdzo2_75sq.jpg",
+"width": 75,
+"height": 75
+}
+],
+"exif": {
+"Camera": " iPhone 6s",
+"ISO": 25,
+"Aperture": "f/2.2",
+"Exposure": "1/33th",
+"FocalLength": "4mm"
+}
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 164538742827,
+"post_url": "https://artmakr.tumblr.com/post/164538742827/do-whatever-you-want-by-jared-burton",
+"slug": "do-whatever-you-want-by-jared-burton",
+"date": "2017-08-23 23:44:44 GMT",
+"timestamp": 1503531884,
+"state": "published",
+"format": "html",
+"reblog_key": "GuSq8oEw",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"my artwork",
+"drawing",
+"painting",
+"paint",
+"acrylic",
+"sketch",
+"artsy",
+"sketchbook",
+"black art",
+"contemporaryart",
+"young artist"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2PFHVWh",
+"summary": "\"Do Whatever You Want\" ✨🍦🚬 \n\nby: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 590,
+"caption": "<p>&ldquo;Do Whatever You Want&rdquo; ✨🍦🚬</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br/></p>",
+"reblog": {
+"comment": "<p>“Do Whatever You Want” ✨🍦🚬</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "164538742827"
+},
+"content_raw": "<p>“Do Whatever You Want” ✨🍦🚬</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br></p>",
+"content": "<p>&ldquo;Do Whatever You Want&rdquo; &#10024;&#127846;&#128684;</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br /></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/164538742827",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/5473858fd7521a8ffdf3741fda416b8d/tumblr_ov5wmkr0EM1w8bkdzo1_1280.jpg",
+"width": 960,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/5473858fd7521a8ffdf3741fda416b8d/tumblr_ov5wmkr0EM1w8bkdzo1_1280.jpg",
+"width": 960,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/5473858fd7521a8ffdf3741fda416b8d/tumblr_ov5wmkr0EM1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 720
+},
+{
+"url": "https://78.media.tumblr.com/5473858fd7521a8ffdf3741fda416b8d/tumblr_ov5wmkr0EM1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 667
+},
+{
+"url": "https://78.media.tumblr.com/5473858fd7521a8ffdf3741fda416b8d/tumblr_ov5wmkr0EM1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 533
+},
+{
+"url": "https://78.media.tumblr.com/5473858fd7521a8ffdf3741fda416b8d/tumblr_ov5wmkr0EM1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 333
+},
+{
+"url": "https://78.media.tumblr.com/5473858fd7521a8ffdf3741fda416b8d/tumblr_ov5wmkr0EM1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 133
+},
+{
+"url": "https://78.media.tumblr.com/5473858fd7521a8ffdf3741fda416b8d/tumblr_ov5wmkr0EM1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+],
+"exif": {
+"Camera": " iPhone"
+}
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 164039600982,
+"post_url": "https://artmakr.tumblr.com/post/164039600982/ive-been-experimenting-with-words-lately-by",
+"slug": "ive-been-experimenting-with-words-lately-by",
+"date": "2017-08-10 23:32:24 GMT",
+"timestamp": 1502407944,
+"state": "published",
+"format": "html",
+"reblog_key": "IbWGacx5",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"my artwork",
+"artsy",
+"drawing",
+"painting",
+"paint",
+"acrylic",
+"drawings",
+"sketch",
+"sketchbook",
+"black art",
+"black artists",
+"contemporaryart",
+"arrow"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2OnXQjM",
+"summary": "I've been experimenting with words lately 🏹✨ by: Jared Burton ",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 1120,
+"caption": "<p>I&rsquo;ve been experimenting with words lately 🏹✨</p><p>by:<a href=\"https://www.instagram.com/artmakr/\"> Jared Burton </a></p>",
+"reblog": {
+"comment": "<p>I’ve been experimenting with words lately 🏹✨</p><p>by:<a href=\"https://www.instagram.com/artmakr/\"> Jared Burton </a></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "164039600982"
+},
+"content_raw": "<p>I’ve been experimenting with words lately 🏹✨</p><p>by:<a href=\"https://www.instagram.com/artmakr/\"> Jared Burton </a></p>",
+"content": "<p>I&rsquo;ve been experimenting with words lately &#127993;&#10024;</p><p>by:<a href=\"https://www.instagram.com/artmakr/\"> Jared Burton&nbsp;</a></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/164039600982",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/73ef5b95a7908f4de98f915183639723/tumblr_ouhte0Fmpz1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/73ef5b95a7908f4de98f915183639723/tumblr_ouhte0Fmpz1w8bkdzo1_1280.jpg",
+"width": 1024,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/73ef5b95a7908f4de98f915183639723/tumblr_ouhte0Fmpz1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 675
+},
+{
+"url": "https://78.media.tumblr.com/73ef5b95a7908f4de98f915183639723/tumblr_ouhte0Fmpz1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 625
+},
+{
+"url": "https://78.media.tumblr.com/73ef5b95a7908f4de98f915183639723/tumblr_ouhte0Fmpz1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 500
+},
+{
+"url": "https://78.media.tumblr.com/73ef5b95a7908f4de98f915183639723/tumblr_ouhte0Fmpz1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 313
+},
+{
+"url": "https://78.media.tumblr.com/73ef5b95a7908f4de98f915183639723/tumblr_ouhte0Fmpz1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 125
+},
+{
+"url": "https://78.media.tumblr.com/73ef5b95a7908f4de98f915183639723/tumblr_ouhte0Fmpz1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 163768283812,
+"post_url": "https://artmakr.tumblr.com/post/163768283812/my-bad-by-jared-burton",
+"slug": "my-bad-by-jared-burton",
+"date": "2017-08-03 22:10:18 GMT",
+"timestamp": 1501798218,
+"state": "published",
+"format": "html",
+"reblog_key": "x26Aolwd",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"artists on tumblr",
+"my artwork",
+"painting",
+"paint",
+"acrylic",
+"drawing",
+"drawings",
+"black art",
+"black artists",
+"contemporaryart",
+"sketch",
+"sketchbook",
+"hands"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2OXMRAa",
+"summary": "\"My Bad\" 🔪✨ \n\nby: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 489,
+"caption": "<p>&ldquo;My Bad&rdquo; 🔪✨</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br/></p>",
+"reblog": {
+"comment": "<p>“My Bad” 🔪✨</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "163768283812"
+},
+"content_raw": "<p>“My Bad” 🔪✨</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br></p>",
+"content": "<p>&ldquo;My Bad&rdquo; &#128298;&#10024;</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br /></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/163768283812",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/3f10c9101352d8ee64969bc352aa6563/tumblr_ou4qx7Buqo1w8bkdzo1_1280.jpg",
+"width": 1280,
+"height": 959
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/3f10c9101352d8ee64969bc352aa6563/tumblr_ou4qx7Buqo1w8bkdzo1_1280.jpg",
+"width": 1280,
+"height": 959
+},
+{
+"url": "https://78.media.tumblr.com/3f10c9101352d8ee64969bc352aa6563/tumblr_ou4qx7Buqo1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 405
+},
+{
+"url": "https://78.media.tumblr.com/3f10c9101352d8ee64969bc352aa6563/tumblr_ou4qx7Buqo1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 375
+},
+{
+"url": "https://78.media.tumblr.com/3f10c9101352d8ee64969bc352aa6563/tumblr_ou4qx7Buqo1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 300
+},
+{
+"url": "https://78.media.tumblr.com/3f10c9101352d8ee64969bc352aa6563/tumblr_ou4qx7Buqo1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 187
+},
+{
+"url": "https://78.media.tumblr.com/3f10c9101352d8ee64969bc352aa6563/tumblr_ou4qx7Buqo1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 75
+},
+{
+"url": "https://78.media.tumblr.com/3f10c9101352d8ee64969bc352aa6563/tumblr_ou4qx7Buqo1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+},
+{
+"type": "photo",
+"blog_name": "artmakr",
+"id": 163576557417,
+"post_url": "https://artmakr.tumblr.com/post/163576557417/all-done-by-jared-burton",
+"slug": "all-done-by-jared-burton",
+"date": "2017-07-29 22:57:23 GMT",
+"timestamp": 1501369043,
+"state": "published",
+"format": "html",
+"reblog_key": "xGwUvuWV",
+"tags": [
+"art",
+"artist",
+"artwork",
+"my art",
+"my artwork",
+"artists on tumblr",
+"black art",
+"black artists",
+"contemporaryart",
+"painting",
+"paint",
+"acrylic",
+"young artist",
+"drawings",
+"girl",
+"flowers"
+],
+"short_url": "https://tmblr.co/Zkf1Ke2OLx2zf",
+"summary": "All done ✨🌸 \n\nby: Jared Burton",
+"is_blocks_post_format": false,
+"recommended_source": null,
+"recommended_color": null,
+"note_count": 1029,
+"caption": "<p>All done ✨🌸</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br/></p>",
+"reblog": {
+"comment": "<p>All done ✨🌸</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br></p>",
+"tree_html": ""
+},
+"trail": [
+{
+"blog": {
+"name": "artmakr",
+"active": true,
+"theme": {
+"header_full_width": 296,
+"header_full_height": 296,
+"header_focus_width": 296,
+"header_focus_height": 166,
+"avatar_shape": "circle",
+"background_color": "#222222",
+"body_font": "Helvetica Neue",
+"header_bounds": "20,296,186,0",
+"header_image": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static_.gif",
+"header_image_focused": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/pcsoxov95/tumblr_static_tumblr_static__focused_v3.gif",
+"header_image_scaled": "https://static.tumblr.com/6941e9ac1f9ac911011a9ee67e9bb6ae/fqmbglb/nDioxov93/tumblr_static__2048_v2.gif",
+"header_stretch": true,
+"link_color": "#9CC7E1",
+"show_avatar": true,
+"show_description": true,
+"show_header_image": true,
+"show_title": true,
+"title_color": "#FFEDA6",
+"title_font": "Square Serif",
+"title_font_weight": "regular"
+},
+"share_likes": false,
+"share_following": false,
+"can_be_followed": true
+},
+"post": {
+"id": "163576557417"
+},
+"content_raw": "<p>All done ✨🌸</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br></p>",
+"content": "<p>All done &#10024;&#127800;</p><p>\n\nby: <a href=\"https://www.instagram.com/artmakr/\">Jared Burton</a>\n\n<br /></p>",
+"is_current_item": true,
+"is_root_item": true
+}
+],
+"image_permalink": "https://artmakr.tumblr.com/image/163576557417",
+"photos": [
+{
+"caption": "",
+"original_size": {
+"url": "https://78.media.tumblr.com/6fa39225c68ce1c950f64ecbacc33ae8/tumblr_otvjrocrze1w8bkdzo1_1280.jpg",
+"width": 960,
+"height": 1280
+},
+"alt_sizes": [
+{
+"url": "https://78.media.tumblr.com/6fa39225c68ce1c950f64ecbacc33ae8/tumblr_otvjrocrze1w8bkdzo1_1280.jpg",
+"width": 960,
+"height": 1280
+},
+{
+"url": "https://78.media.tumblr.com/6fa39225c68ce1c950f64ecbacc33ae8/tumblr_otvjrocrze1w8bkdzo1_540.jpg",
+"width": 540,
+"height": 720
+},
+{
+"url": "https://78.media.tumblr.com/6fa39225c68ce1c950f64ecbacc33ae8/tumblr_otvjrocrze1w8bkdzo1_500.jpg",
+"width": 500,
+"height": 667
+},
+{
+"url": "https://78.media.tumblr.com/6fa39225c68ce1c950f64ecbacc33ae8/tumblr_otvjrocrze1w8bkdzo1_400.jpg",
+"width": 400,
+"height": 533
+},
+{
+"url": "https://78.media.tumblr.com/6fa39225c68ce1c950f64ecbacc33ae8/tumblr_otvjrocrze1w8bkdzo1_250.jpg",
+"width": 250,
+"height": 333
+},
+{
+"url": "https://78.media.tumblr.com/6fa39225c68ce1c950f64ecbacc33ae8/tumblr_otvjrocrze1w8bkdzo1_100.jpg",
+"width": 100,
+"height": 133
+},
+{
+"url": "https://78.media.tumblr.com/6fa39225c68ce1c950f64ecbacc33ae8/tumblr_otvjrocrze1w8bkdzo1_75sq.jpg",
+"width": 75,
+"height": 75
+}
+]
+}
+],
+"can_like": false,
+"can_reblog": false,
+"can_send_in_message": true,
+"can_reply": false,
+"display_avatar": true
+}
+],
+"total_posts": 48
+}
+}
