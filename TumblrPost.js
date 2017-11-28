@@ -1,16 +1,17 @@
 import React from 'react';
-import {View, Text, Image, WebView} from 'react-native';
+import {View, Text, Image} from 'react-native';
+import HTMLView from 'react-native-htmlview';
 
 const styles = {
   container: {
     marginVertical: 20,
   },
   image: {
-    width: 400,
-    height: 200
+    width: 350,
+    height: 400
   },
   webview: {
-    width: '100%',
+    width: 200,
     height: 100
   }
 }
@@ -23,7 +24,10 @@ export default class TumblrPost extends React.Component {
           style={styles.image}
           source={{uri: this.props.item.photos[0].original_size.url}}
         />
-        <Text>{this.props.item.caption}</Text>
+        <View style={styles.webview}>
+          <HTMLView          
+            value={this.props.item.caption} />
+        </View>
       </View>
     );
   }
