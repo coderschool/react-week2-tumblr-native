@@ -58,7 +58,7 @@ Get a Tumblr API key
   </View>
   ```
 
-(pic 2)
+<img src="./images/ScreenM1b.png" width="300px"/>
 
 ## Milestone 2: Fetch the data from the API
 
@@ -112,6 +112,10 @@ Get a Tumblr API key
   this.fetchWithPage = this.fetchWithPage.bind(this);
   ```
 
+* At this point, should still look the same as Milestone 1
+
+<img src="./images/ScreenM1b.png" width="300px"/>
+
 ## Milestone 3: Infinite scrolling
 
 * Create a `loadMore` function that increments page
@@ -146,8 +150,8 @@ Get a Tumblr API key
     onRefresh={this.props.loadMore} />
   ```
 
-(pic 3)
-(pic 4)
+<img src="./images/ScreenM3a.png" width="300px"/>
+<img src="./images/ScreenM3b.png" width="300px"/>
 
 * Instead, use `onEndReached` and `onEndReachedThreshold` for infinite scrolling. Also, make sure to concatenate instead of replacing
   ```JSX
@@ -173,8 +177,8 @@ Get a Tumblr API key
   }
   ```
 
-(pic 5)
-(pic 6)
+<img src="./images/ScreenM3c.png" width="300px"/>
+<img src="./images/ScreenM3d.png" width="300px"/>
 
 ## Milestone 4: Navigation
 
@@ -189,7 +193,7 @@ Get a Tumblr API key
   </TouchableHighlight>
   ```
 
-(pic 7)
+<img src="./images/ScreenM4a.png" width="300px"/>
 
 * Install `react-navigation` and restart yarn
   ```bash
@@ -200,7 +204,6 @@ Get a Tumblr API key
 * Create a simple `StackNavigator`
   ```JSX
   import {StackNavigator} from 'react-navigation';
-
   const Routes = StackNavigator({
     TumblrList: { screen: TumblrList }
   });
@@ -227,7 +230,7 @@ Get a Tumblr API key
   />
   ```
 
-(pic 8)
+<img src="./images/ScreenM4b.png" width="300px"/>
 
 * Add `TumblrProfile` to `Routes`
   ```JSX
@@ -257,7 +260,7 @@ Get a Tumblr API key
   <TouchableHighlight onPress={this.props.loadProfile}>
   ```
 
-(pic)
+<img src="./images/ScreenM4c.png" width="300px"/>
 
 * Install HTMLView
   ```bash
@@ -300,8 +303,7 @@ Get a Tumblr API key
   });
   ```
 
-(pic)
-
+<img src="./images/ScreenM4d.png" width="300px"/>
 
 ## Bonus 1: Improve look and feel
 A few ideas:
