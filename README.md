@@ -44,7 +44,7 @@ Get a Tumblr API key
   <TumblrList posts={this.state.posts} />
   ```
 
-![Alt](images/ScreenM1a.png =250x)
+<img src="./images/ScreenM1a.png" style="width: 250px;"/>
 
 * Create a `TumblrPost` component and incorporate into `TumblrList`. 
   ```JSX
