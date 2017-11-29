@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text, Image} from 'react-native';
+import {View, Text, Image, TouchableHighlight} from 'react-native';
 import HTMLView from 'react-native-htmlview';
 
 const styles = {
@@ -19,16 +19,14 @@ const styles = {
 export default class TumblrPost extends React.Component {
   render() {
     return (
-      <View style={styles.container}>
-        <Image 
-          style={styles.image}
-          source={{uri: this.props.item.photos[0].original_size.url}}
-        />
-        <View style={styles.webview}>
-          <HTMLView          
-            value={this.props.item.caption} />
+      <TouchableHighlight onPress={() => this.props.loadProfile()}>
+        <View style={styles.container}>
+          <Image 
+            style={styles.image}
+            source={{uri: this.props.photos[0].original_size.url}}
+          />
         </View>
-      </View>
+      </TouchableHighlight>
     );
   }
 }

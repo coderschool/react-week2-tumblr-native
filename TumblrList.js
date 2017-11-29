@@ -17,16 +17,25 @@ const styles = StyleSheet.create({
 
 export default class TumblrList extends React.Component {
   render() {
+    const props = this.props.screenProps;
+    const { navigate } = this.props.navigation;
     return (
-      <View>
-        <FlatList
-          style={styles.list}
-          data={this.props.posts}
-          keyExtractor={(post) => post.id}
-          renderItem={(post) => <TumblrPost key={post.id} {...post} />}
-          contentContainerStyle={styles.container}
-          refreshing={this.props.loading} />
-      </View>
+      <FlatList
+        style={styles.list}
+        data={props.posts}
+        keyExtractor={(post) => post.id}
+        renderItem={(post) => {
+          return <TumblrPost 
+            key={post.index} 
+            loadProfile={() => {
+              return navigate('TumblrProfile', post.item);
+            }}
+            {...post.item} />
+        }}
+        contentContainerStyle={styles.container}
+        onEndReachedThreshold={0.05}
+        onEndReached={props.loadMore}        
+        refreshing={props.loading} />
     )
   }
 }
