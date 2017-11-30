@@ -16,8 +16,9 @@ App =>
 
 ## Milestone 1: Display basic posts
 
-Get a Tumblr API key
-- https://www.tumblr.com/oauth/apps
+* Get a Tumblr API key
+  * https://www.tumblr.com/oauth/apps
+
 
 * Pull posts
   - https://api.tumblr.com/v2/blog/{blog}/posts/photo?api_key={key}&limit=4
@@ -43,22 +44,24 @@ Get a Tumblr API key
   // Incorporate this into App.js
   <TumblrList posts={this.state.posts} />
   ```
+<div align="center"><img src="./images/ScreenM1a.png" width="300px"/>
+</div>
 
-<img src="./images/ScreenM1a.png" width="300px"/>
-
-* Create a `TumblrPost` component and incorporate into `TumblrList`. 
+* Create a `TumblrPost` component and incorporate into `TumblrList`.
   ```JSX
   const img = {
     uri: this.props.photos[0].original_size.url
   };
   <View style={styles.container}>
-    <Image 
+    <Image
         style={{width: 350, height: 400}}
         source={img} />
   </View>
   ```
 
-<img src="./images/ScreenM1b.png" width="300px"/>
+<div align="center">
+  <img src="./images/ScreenM1b.png" width="300px"/>
+</div>
 
 ## Milestone 2: Fetch the data from the API
 
@@ -83,7 +86,7 @@ Get a Tumblr API key
             loading: false
           });
         });
-    }); 
+    });
   ```
 
 * Add a 2s promise wait so that we can actually see things load
@@ -114,7 +117,9 @@ Get a Tumblr API key
 
 * At this point, should still look the same as Milestone 1
 
-<img src="./images/ScreenM1b.png" width="300px"/>
+<div align="center">
+  <img src="./images/ScreenM1b.png" width="300px"/>
+</div>
 
 ## Milestone 3: Infinite scrolling
 
@@ -150,8 +155,10 @@ Get a Tumblr API key
     onRefresh={this.props.loadMore} />
   ```
 
-<img src="./images/ScreenM3a.png" width="300px"/>
-<img src="./images/ScreenM3b.png" width="300px"/>
+<div align="center">
+  <img src="./images/ScreenM3a.png" width="300px"/>
+  <img src="./images/ScreenM3b.png" width="300px"/>
+</div>
 
 * Instead, use `onEndReached` and `onEndReachedThreshold` for infinite scrolling. Also, make sure to concatenate instead of replacing
   ```JSX
@@ -177,8 +184,10 @@ Get a Tumblr API key
   }
   ```
 
-<img src="./images/ScreenM3c.png" width="300px"/>
-<img src="./images/ScreenM3d.png" width="300px"/>
+<div align="center">
+  <img src="./images/ScreenM3c.png" width="300px"/>
+  <img src="./images/ScreenM3d.png" width="300px"/>
+</div>
 
 ## Milestone 4: Navigation
 
@@ -193,7 +202,9 @@ Get a Tumblr API key
   </TouchableHighlight>
   ```
 
-<img src="./images/ScreenM4a.png" width="300px"/>
+<div align="center">
+  <img src="./images/ScreenM4a.png" width="300px"/>
+</div>
 
 * Install `react-navigation` and restart yarn
   ```bash
@@ -211,7 +222,7 @@ Get a Tumblr API key
 
 * Use `Routes` in render() and link in `screenProps`
   ```JSX
-  <Routes 
+  <Routes
     screenProps={{
       posts: this.state.posts,
       loadMore: this.loadMore,
@@ -230,7 +241,9 @@ Get a Tumblr API key
   />
   ```
 
-<img src="./images/ScreenM4b.png" width="300px"/>
+<div align="center">
+<img src="./images/ScreenM4b.png" width="300px
+</div>
 
 * Add `TumblrProfile` to `Routes`
   ```JSX
@@ -260,7 +273,10 @@ Get a Tumblr API key
   <TouchableHighlight onPress={this.props.loadProfile}>
   ```
 
+<div align="center">
 <img src="./images/ScreenM4c.png" width="300px"/>
+</div>
+
 
 * Install HTMLView
   ```bash
@@ -294,7 +310,7 @@ Get a Tumblr API key
   ```JSX
   const Routes = StackNavigator({
     TumblrList: { screen: TumblrList },
-    TumblrProfile: { 
+    TumblrProfile: {
       screen: TumblrProfile,
       navigationOptions: ({navigation}) => ({
         title: `${navigation.state.params.summary}`
@@ -303,7 +319,10 @@ Get a Tumblr API key
   });
   ```
 
+<div align="center">
 <img src="./images/ScreenM4d.png" width="300px"/>
+</div>
+
 
 ## Bonus 1: Improve look and feel
 A few ideas:
