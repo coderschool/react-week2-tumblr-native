@@ -26,7 +26,7 @@ App =>
 * Store in data.json and create a TEST_DATA variable to store. Create a state parameter `posts` to store `TEST_DATA.response.posts`
   ```JSX
   this.state = {
-    posts.TEST_DATA.response.posts
+    posts: TEST_DATA.response.posts
   }
   ```
 
